@@ -1,2 +1,2 @@
 # Python-Basic-programs
-Basic python programming questions
+This file includes basic program questions for beginners to gain hands-on proficiency in Python.
